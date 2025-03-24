@@ -1,13 +1,12 @@
-# Dizajn baze podataka i relacioni model
+# Database Design and Relational Model
 
-Ovaj projekat se fokusira na **dizajn baze podataka**, kreiranje **relacionog modela**, kao i pisanje **upita**, **funkcija** i **procedura** za upravljanje podacima.
+This project focuses on **database design**, creating a **relational model**, and writing **queries**, **functions**, and **stored procedures** to manage data.
 
-## Karakteristike:
-- **Dizajn baze podataka**: Tabele, odnosi i ograničenja.
-- **Relacioni model**: Normalizovani model za smanjenje redundantnosti podataka.
-- **SQL upiti**: Različiti upiti za preuzimanje i modifikovanje podataka.
-- **Funkcije i procedure**: Prilagođene funkcije i ponovo upotrebljive procedure.
+## Features:
+- **Database Design**: Tables, relationships, and constraints.
+- **Relational Model**: Normalized model to reduce data redundancy.
+- **SQL Queries**: Various queries for retrieving and modifying data.
+- **Functions & Procedures**: Custom functions and reusable procedures.
 
-## Korišćene tehnologije:
-- **Baza podataka**: Microsoft SQL Server
-  
+## Technologies Used:
+- **Database**: Microsoft SQL Server
